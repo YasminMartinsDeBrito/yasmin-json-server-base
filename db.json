@@ -6,6 +6,60 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "yasmin@gmail.com",
+      "password": "$2a$10$vwgMFtFDj62Q1bLETtjNOOcpWDd23Cb7B1I1geP8Y86I0Gf3YHvBK",
+      "name": "Yasmin",
+      "age": 22,
+      "id": 2
+    },
+    {
+      "email": "yasmin123@gmail.com",
+      "password": "$2a$10$5h.mLDcZ1zDb9F.u8luZk.lg88ddw3gZJq1Fxg4Zw4OmHA7G4XfxC",
+      "name": "Yasmin",
+      "age": 22,
+      "id": 3
+    }
+  ],
+  "animals": [
+    {
+      "type": "Cavalo",
+      "name": "Wi",
+      "userId": 3,
+      "id": 1
+    },
+    {
+      "type": "Gato",
+      "name": "mingal",
+      "userId": 3,
+      "id": 2
+    },
+    {
+      "type": "Pato",
+      "name": "quaqua",
+      "userId": 3,
+      "id": 3
+    }
+  ],
+  "endereco": [
+    {
+      "cep": "137373395",
+      "rua": "honorio ferreira pinto",
+      "number": 299,
+      "cidade": "Mococa",
+      "estado": "SP",
+      "userId": 3,
+      "id": 1
+    },
+    {
+      "cep": "137373266",
+      "rua": "Angelo abeline",
+      "number": 266,
+      "cidade": "Mococa",
+      "estado": "SP",
+      "userId": 3,
+      "id": 2
     }
   ]
 }
